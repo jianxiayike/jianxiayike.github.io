@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "首都医科大学 生物医学工程学院智能医学工程学系"
 author_profile: true
 redirect_from: 
   - /about/
