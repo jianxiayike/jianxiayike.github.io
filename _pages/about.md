@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hongleiliu introduction"
+title: "Honglei Liu Introduction"
 author_profile: true
 redirect_from: 
   - /about/
